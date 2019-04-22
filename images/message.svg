@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="15" viewBox="0 0 17 15">
+  <g id="icon" transform="translate(-0.5 -0.5)">
+    <path id="Shape" d="M8.5,3.867,15.53.118a1,1,0,1,1,.941,1.765l-7.5,4a1,1,0,0,1-.941,0l-7.5-4A1,1,0,0,1,1.471.118Z" transform="translate(0.5 4)" fill="#667580"/>
+    <path id="Shape-2" data-name="Shape" d="M15,15H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H15a2,2,0,0,1,2,2V13A2,2,0,0,1,15,15ZM2,2V13H15V2Z" transform="translate(0.5 0.5)" fill="#667580"/>
+  </g>
+</svg>
